@@ -52,7 +52,8 @@ pip install -r requirements.txt
 
 ```
 ## Screenshots
-![Image description](images/movie-search.png)
+![Image description](images/mov-1.png)
+![Image description](images/mov-2.png)
 
 
 
