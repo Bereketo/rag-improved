@@ -55,8 +55,10 @@ pip install -r requirements.txt
 
 ![Image description](images/mov-1.png)
 
-### results
-![Image description](images/mov-2.png)
+### **Results**
+![Image description](images/movie-2.png)
+![Image description](images/movie-3.png)
+
 
 
 
