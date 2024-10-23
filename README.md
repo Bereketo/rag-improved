@@ -37,8 +37,8 @@ Ensure you have the following installed:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/bereketo/semantic-search.git
-cd semantic-search
+git clone https://github.com/bereketo/rag-improved.git
+cd rag-improved
 ```
 
 ### 2. **Set up virtual environment**
@@ -51,6 +51,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ```
+### 4. **Run streamlit app**
+```bash
+streamlit run app.py
+```
+
 ## Screenshots
 
 ![Image description](images/mov-1.png)
